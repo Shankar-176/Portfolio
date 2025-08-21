@@ -1,12 +1,10 @@
 
-# Sankar Portfolio (React + Vite + Tailwind)
+# Portfolio Website
 
 A clean, modern developer portfolio for **Sankar Srinivasa Reddy** with a working **EmailJS contact form**, smooth sections, and project placeholders.
 
 ## ✨ Tech
 - React 18 + Vite
-- Tailwind CSS
-- Framer Motion (header animation)
 - EmailJS (contact form)
 
 ## 🚀 Getting Started
