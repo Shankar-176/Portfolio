@@ -59,4 +59,4 @@ sankar-portfolio/
 
 ---
 
-Made with ❤️ for **Sankar Srinivasa Reddy**.
+
